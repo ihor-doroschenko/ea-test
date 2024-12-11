@@ -1,4 +1,4 @@
 tocTab[tocTab.length] = new Array("0.1:1", "", "Test", "EARoot/EA1/EA1.html", "175.png", "1", "0", "", "Logical diagram0","{3BAA9120-F31C-4c89-9C43-3D26F1792DE9}");
 tocTab[tocTab.length] = new Array("0.1:2", "", "Test", "EARoot/EA1/EA3.html", "177.png", "2", "0", "", "Object diagram0","{0449BBF4-B82E-40ff-A08B-4BE51BFD4420}");
-tocTab[tocTab.length] = new Array("0.1:3", "", ": Element1", "EARoot/EA1/EA6.html", "25.png", "E3", "0", "", "Object0","{72478C4A-3FE8-441b-A453-FBD1C4135A73}");
-tocTab[tocTab.length] = new Array("0.1:4", "", "Element1", "EARoot/EA1/EA7.html", "5.png", "E2", "0", "", "Class0","{5803F978-1463-4cb7-A1D9-99F27B323EC8}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "Element1", "EARoot/EA1/EA6.html", "5.png", "E2", "0", "", "Class0","{5803F978-1463-4cb7-A1D9-99F27B323EC8}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "Element12: Element1", "EARoot/EA1/EA7.html", "25.png", "E3", "0", "", "Object0","{72478C4A-3FE8-441b-A453-FBD1C4135A73}");
